@@ -14,3 +14,21 @@ class Solution:
                     return False
 
         return len(stack) == 0
+
+
+# ([{ -> push it onto the stack.
+# }]) -> check whether it matches the most recent opening bracket.
+
+# stack = []
+
+# '{' -> push
+# stack = ['{']
+
+# '[' -> push
+# stack = ['{', '[']
+
+# ']' -> matches '['
+# stack = ['{']
+
+# '}' -> matches '{'
+# stack = []
