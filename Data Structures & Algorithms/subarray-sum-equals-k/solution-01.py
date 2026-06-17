@@ -9,7 +9,6 @@ for i in range(len(nums)):
         csum += nums[j]
         
         if csum % k == 0:
-            print(i, j, nums[i:j+1])
             result.append(nums[i:j+1])
         
 print(result)
