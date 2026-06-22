@@ -1,26 +1,4 @@
-# Java + Spring Boot: The Complete Fresher Roadmap
-
-> [!IMPORTANT]
-> This is not a "learn in 30 days" influencer roadmap. This is the full inventory of what separates a **hireable** fresher from the crowd. Master this in 6 months and companies will not be able to ignore you.
-
----
-
-## Phase 0: The Mindset (Week 0)
-
-**Rule:** You are not "learning Java." You are building a professional skill that will pay your bills. Treat this like a job, not a hobby.
-
-| Daily Target | What It Means |
-|---|---|
-| 4–5 hours of focused coding | Not watching tutorials. Writing code. |
-| 1 hour of DSA practice | LeetCode / GeeksforGeeks |
-| Build something every week | Even if it's small, ship working code |
-
----
-
 ## Phase 1: Core Java — The Non-Negotiable Foundation (Weeks 1–4)
-
-> [!CAUTION]
-> If your Core Java is weak, Spring Boot will destroy you. Every Spring Boot interview starts with Core Java questions. Do NOT skip this.
 
 ### 1.1 Language Fundamentals
 
@@ -35,9 +13,6 @@
 | **Control Flow** | `if/else`, `switch` (including enhanced switch with `->` in Java 14+), `for`, `for-each`, `while`, `do-while`, `break`, `continue`, labeled breaks. |
 
 ### 1.2 Object-Oriented Programming (OOP)
-
-This is the **#1 interview topic** for Java freshers. You will be grilled on this.
-
 | Concept | What You Must Know | Interview Trap |
 |---|---|---|
 | **Class & Object** | Class = blueprint. Object = instance. Constructors (default, parameterized, copy). `this` keyword. | "Can a constructor be private?" → Yes (Singleton pattern). |
